@@ -2,7 +2,7 @@
 A project created while working for iD Tech to help teach students the usefulness of object-oriented design and introduce child classes and polymorphism.
 I created this project for a week-long course on programming because I noticed that, while my teaching style encouraged project-based work, I did not have
 a good project to really give students when it came to classes and object oriented programming. When I had a class with AP CS students, we worked on creating
-a game similar to this, and when onestudent asked if they could fight their classmates, this idea struck me.
+a game similar to this, and when one student asked if they could fight their classmates, this idea struck me.
 
 # Files
 MyGladiator.cpp is the file that would be handed to students, with me explaining how the project would work and any important points they should be aware of.
